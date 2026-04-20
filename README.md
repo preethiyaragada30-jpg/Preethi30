@@ -2,7 +2,7 @@ My First Website 🌐
 This is a simple website created using HTML and CSS.
 
 🚀 Live Website
-Click here to view my website: https://bharathi9618.github.io/Bharathi25-bera/
+Click here to view my website: https://preethiyaragada30jpg.github.io/Preethi30/
 
 📚 What I Learned
 1.HTML basics
