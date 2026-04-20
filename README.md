@@ -8,10 +8,12 @@ Click here to view my website: https://bharathi9618.github.io/Bharathi25-bera/
 HTML basics
 Tables (Name & Age)
 CSS styling
+
 GitHub Pages hosting
 🛠 Technologies Used
 HTML
 CSS
 GitHub
+
 📌 About Me
 I am a B.Tech CSE student learning Full Stack Development.
